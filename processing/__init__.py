@@ -1,0 +1,1 @@
+"""Deterministic preparation and validation."""
